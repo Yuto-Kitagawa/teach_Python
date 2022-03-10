@@ -10,3 +10,6 @@ print(j)
 print(int(j))
 print(float(i))
 print("1" + "1")
+
+age = input("何歳ですか")
+print(age)
